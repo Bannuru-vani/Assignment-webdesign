@@ -66,12 +66,12 @@ html {
   font-weight: 400;
   margin: 25px 0;
 }
-.sub-heading h4 {
+.sub-heading  {
   color: #03315d;
 }
-.jar-section {
+/* .jar-section {
   margin: 0 30px;
-}
+} */
 
 .jar-sub-text {
   color: #03315d;
@@ -250,6 +250,7 @@ html {
 /* Media quries */
 
 @media screen and (max-width: 1200px) {
+
 }
 
 @media only screen and (max-width: 793px) {
@@ -262,8 +263,8 @@ html {
   .hero {
     height: 35%;
   }
-  .sub-heading h4 {
-    font-size: 1.3rem;
+  .sub-heading  {
+    font-size: 1rem;
   }
   .info-section {
     margin: 5px 0;
