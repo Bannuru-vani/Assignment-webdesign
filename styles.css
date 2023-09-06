@@ -288,6 +288,7 @@ html {
 
   .jar-image-container {
     justify-content: center;
+    display:flex;
   }
   .footer-links {
     font-size: 0.8rem;
@@ -298,4 +299,8 @@ html {
   .hero {
     height: 15%;
   }
+    .jar-image-container {
+    justify-content: center;
+    display:flex;
+    }
 }
